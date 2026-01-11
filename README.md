@@ -13,3 +13,6 @@ The project emphasizes **object-oriented design, modular architecture, file pars
 - Custom and JSON-based input parsing
 - Modular design separating content, users, parsing, and service logic
 - Test files for validating functionality
+
+## Notes
+Completed during Spring 2025. 
